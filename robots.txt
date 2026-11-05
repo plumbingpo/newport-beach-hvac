@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://newportbeachhvacco.com/sitemap.xml
